@@ -8,7 +8,7 @@ Quickly deploy your own NFT Open Edition minting page and contract with <b>Next.
 
 <p>
 <p align="center">
-  <img width="460" src="https://github.com/0xtiby/open-edition-nft-template/tree/main/.github">
+  <img width="460" src="https://github.com/0xtiby/open-edition-nft-template/blob/master/.github/preview.png">
 </p>
 
 </p>
